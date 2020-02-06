@@ -1,0 +1,9 @@
+bower_components
+build
+node_modules
+.idea
+.iml
+npm-debug.log
+target
+.DS_STORE
+vendor/
