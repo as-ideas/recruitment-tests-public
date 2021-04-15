@@ -54,7 +54,7 @@ It is expected that the API will return a reasonable response (StatusCode, Error
 
 ## Introduce new domain "Accounting"
 
-Now that an article with many images can be published, we need to pay the image-author of the images royalties.
+Now that an article with many images can be published, we need to pay royalties to the image-author.
 We call this new feature "Accounting". Please introduce this new concept to our domain.
 
 To give you some hints about this new concept:
