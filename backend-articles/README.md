@@ -68,7 +68,7 @@ To give you some hints about this new concept:
 * If an image was already published as part of another article, we don't need to consider it again
 * once we paid for the image we are allowed to use it as many times as we want 
 
-#### 8. Implement an accounting endpoint to list all image-authors that we published images from
+#### 8. Implement an accounting endpoint to list all image-authors with published images
 
 This list could be later used to generate a report or display it in a fancy backoffice.
 
