@@ -69,7 +69,9 @@ This list could be later used to generate a report or display it in a fancy back
 
 #### 8. Add logic to calculate the total image price sum by its `image-author`
 
-The price-calculation is a real critical part of our application, as we neither want to pay too much, nor to few royalties to the image-authors. 
+As an accounter, I need to know the exact royalties we have to pay to each image-author for a correct clearing.
+
+The price-calculation is a real critical part of our application, as we neither want to pay too much, nor too few royalties to the image-authors. 
 Show us that the calculation works.
 
 ### 9. Extend the accounting endpoint to show for each image-author the calculated total price sum
