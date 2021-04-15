@@ -14,7 +14,7 @@ public class ApplicationRoutes {
         return RouterFunctions
             .route()
             .GET("/articles/", articleHandler::listArticles)
-            .GET("/articles/{id}", articleHandler::getArticle)
+            .GET("/articles/{id}", articleHandler::fetchArticle)
             .build();
     }
 

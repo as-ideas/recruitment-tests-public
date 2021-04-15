@@ -17,10 +17,10 @@ public class NewsArticleHandler {
         this.articleService = articleService;
     }
 
-    public Mono<ServerResponse> getArticle(ServerRequest request) {
+    public Mono<ServerResponse> fetchArticle(ServerRequest request) {
         var articleId = request.pathVariable("id");
 
-        Mono<ArticleView> article = articleService.getArticle(articleId);
+        Mono<ArticleView> article = articleService.fetchArticle(articleId);
 
         return ServerResponse.ok().contentType(MediaType.APPLICATION_JSON).body(BodyInserters.fromPublisher(article, ArticleView.class));
     }

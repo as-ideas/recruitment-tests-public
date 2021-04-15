@@ -15,7 +15,7 @@ public class NewsArticleService {
         this.weltArticleRepository = weltArticleRepository;
     }
 
-    public Mono<ArticleView> getArticle(String id) {
+    public Mono<ArticleView> fetchArticle(String id) {
         return weltArticleRepository.get(id).map(this::outbound);
     }
 
