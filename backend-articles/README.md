@@ -75,7 +75,7 @@ This list could be later used to generate a report or display it in a fancy back
 #### 9. Add logic to calculate the total image price sum by its `image-author` 
 #### 10. Add a Unit-Test that verifies your price-calculation is working
 
-The price-calculation is a real critical part of our application, as we neither want to pay too much, nor to few money to the image-authors.
+The price-calculation is a real critical part of our application, as we neither want to pay too much, nor to few royalties to the image-authors.
 Show us that the calculation works by adding unit-tests. If necessary, please mock all external services / dependencies for these tests.
 
 ### 11. Extend the accounting endpoint to show for each image-author the calculated total price sum 
