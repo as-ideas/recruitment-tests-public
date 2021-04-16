@@ -1,4 +1,4 @@
-{"colors": ["GREEN", "RED", "YELLOW"],
+{"colors": ["RED", "BLUE", "GREEN", "YELLOW", "BLACK"],
         "stars": [
             {
             "color": "RED",
