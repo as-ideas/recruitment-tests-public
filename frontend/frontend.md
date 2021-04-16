@@ -12,7 +12,16 @@ each task, commit to a branch, or tag the final solution to each task. In the en
 
 __Please deliver less tasks but with higher quality rather than many tasks in lesser quality.__
 
-There is a Star-API, which you will need to use, cf. https://happy-stars.herokuapp.com/
+Please install the [json-server package](https://www.npmjs.com/package/json-server) and use the ```db.json``` file provided. 
+ 
+```bash
+# install the server (globally if wanted)
+npm install -g json-server
+# start the server with the provided db file
+json-server --watch db.json
+# or start the server on a different port (e.g. 1234)
+json-server --watch db.json --port 1234
+```
 
 Hints:
 
@@ -34,14 +43,13 @@ Hints:
       * Stars
       * Imprint
    * The three pages should be navigable and it should be a single page website
-   * Use some CSS-Styling for the menu and use a logo for the site
-      * You can use one of the images from https://happy-stars.herokuapp.com/
+   * Use some CSS-Styling for the menu and use a logo of your choice for the site 
    * BONUS: The current site is highlighted in the menu
 
 
 ## Task 3 - Loading Data from a REST-Service
 
-   * Display all Univeres and Stars from the Webservice https://happy-stars.herokuapp.com/
+   * Display all Univeres and Stars provided by the mock server 
    * A simple table on the "universes"-site for displaying all universes
    * A simple table on the "stars"-site for displaying all the stars
    * HINT: A simple table means a simple representation, just displaying the infos
@@ -59,19 +67,18 @@ Hints:
       * Do this only if you can do this fast enough, don't waste time
 
 
-## Task 5 - Create Unit-Tests for your JS
+## Task 5 - Create test(s) for your JS
 
    * Write at least one unit test for your JS code
-      * eg. test the calls to the webservices
    * It is ok if the test is called manually
 
 
 ## Task 6 - CRUD for universes
 
-   * Add a "Create-View" to the universe site where you can add a new universe
+   * Add a "Create-View" to the universe site where you can add a new universe. Each universe should have a unique id. 
    * Add a "Details-View" to the universe where you display only the stars from this universe
-   * Add a "Create-Star-View" in the details view where you can add a star to the universe
-   * Add a "Delete-Button" to the details view where you can delete a star
+   * Add a "Create-Star-View" in the details view where you can add a star to the universe. A start can only be added to an existing universe.
+   * Add a "Delete-Button" to the details view where you can delete a star.
 
 
 ## Task 7 - Pagination
@@ -81,5 +88,4 @@ Hints:
 
 ## BONUS-Task - Design
 
-   * The STAR-API contains some images. Use the images to make your website look cooler!
    * Create a nice color scheme and let your website shine.
