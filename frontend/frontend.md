@@ -29,7 +29,7 @@ Hints:
    * Prefer simple solutions you can explain over complex solutions you don't even grok.
 
 
-## Task 1 - Showing a static HTML page
+## Task 1 - Show a static HTML page
 
    * Add an index.html with a headline to your project with a simple "Hello World"
    * Include a css-file and a js-file
@@ -44,26 +44,26 @@ Hints:
       * Imprint
    * The three pages should be navigable and it should be a single page website
    * Use some CSS-Styling for the menu and use a logo of your choice for the site 
-   * BONUS: The current site is highlighted in the menu
+   * BONUS: The current page is highlighted in the menu
 
 
 ## Task 3 - Loading Data from a REST-Service
 
-   * Display all Univeres and Stars provided by the mock server 
+   * Display all Universes and Stars provided by the mock server 
    * A simple table on the "universes"-site for displaying all universes
    * A simple table on the "stars"-site for displaying all the stars
-   * HINT: A simple table means a simple representation, just displaying the infos
-   * BONUS:
-      * Displaying the universes: display the maximum and current size
-      * Displaying the stars: display the name of the universe
+   * HINT: A simple table means a simple representation - just display the info
+   * BONUSES:
+      * Universes: display the maximum and current size
+      * Stars: display the name of the universe
       * Use the color of the star for some CSS styling (the colors are RED, BLUE, GREEN, YELLOW, BLACK)
 
 If you start the json-server with the mocked data it will present you with the list of available resource paths.
 
 
-## Task 4 - JavaScript Tool Chain
+## Task 4 - JavaScript Toolchain
 
-   * Use a CSS-Preprocessor for you CSS
+   * Use a CSS-Preprocessor to generate your CSS
    * Minify your CSS and JS and use the minified version in your application
    * HINT You don't need to automate the CSS-Preprocessor or minifying
    * BONUS-Task: Use a build tool or task runner to automate the build of your application
@@ -92,3 +92,6 @@ If you start the json-server with the mocked data it will present you with the l
 ## BONUS-Task - Design
 
    * Create a nice color scheme and let your website shine.
+
+
+🤞🏽 Good luck, we can't wait to discuss the solution with you.
