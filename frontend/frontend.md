@@ -25,8 +25,8 @@ json-server --watch db.json --port 1234
 
 Hints:
 
-   * Use the IDE, Tools, JS librarys or CSS framework you are most comfortable with. You can also use Typescript, or any other frontend language currently hyped.
-   * Prefer simple solutions you can explain than complex solutions you don't even grok.
+   * Use the IDE, Tools, JS libraries or CSS frameworks you are most comfortable with. You can also use Typescript, or any other currently hyped frontend language.
+   * Prefer simple solutions you can explain over complex solutions you don't even grok.
 
 
 ## Task 1 - Showing a static HTML page
