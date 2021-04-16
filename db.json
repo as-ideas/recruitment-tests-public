@@ -1,0 +1,17 @@
+{"colors": ["GREEN", "RED", "YELLOW"],
+        "stars": [
+            {
+            "color": "RED",
+            "id": 0,
+            "name": "string",
+            "universeId": 0
+            }
+        ],
+        "universes": [
+            {
+              "id": 0,
+              "maxSize": 0,
+              "name": "string"
+            }
+          ]
+}
