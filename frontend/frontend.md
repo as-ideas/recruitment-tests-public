@@ -25,7 +25,7 @@ json-server --watch db.json --port 1234
 
 Hints:
 
-   * Use the IDE, Tools, JS-Librarys or CSS-Framework you are most comfortable with
+   * Use the IDE, Tools, JS-Librarys or CSS-Framework you are most comfortable with. You can also use Typescript, or any other frontend language currently hyped.
    * Prefer simple solutions you can explain than complex solutions you don't even grok.
 
 
