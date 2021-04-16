@@ -80,7 +80,7 @@ If you start the json-server with the mocked data it will present you with the l
 
    * Add a "Create-View" to the universe site where you can add a new universe. Each universe should have a unique id. 
    * Add a "Details-View" to the universe where you display only the stars from this universe
-   * Add a "Create-Star-View" in the details view where you can add a star to the universe. A start can only be added to an existing universe.
+   * Add a "Create-Star-View" in the details view where you can add a star to the universe. A star can only be added to an existing universe.
    * Add a "Delete-Button" to the details view where you can delete a star.
 
 
