@@ -58,6 +58,9 @@ Hints:
       * Displaying the stars: display the name of the universe
       * Use the color of the star for some CSS styling (the colors are RED, BLUE, GREEN, YELLOW, BLACK)
 
+If you start the json-server with the mocked data, it will present you with the list of available resource paths.
+
+
 ## Task 4 - JavaScript Tool Chain
 
    * Use a CSS-Preprocessor for you CSS
