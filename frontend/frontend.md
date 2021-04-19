@@ -89,10 +89,4 @@ If you start the json-server with the mocked data it will present you with the l
 
    * Implement Pagination for the stars-site
 
-
-## BONUS-Task - Design
-
-   * Create a nice color scheme and let your website shine.
-
-
 🤞🏽 Good luck, we can't wait to discuss the solution with you.
