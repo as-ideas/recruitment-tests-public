@@ -43,7 +43,8 @@ Hints:
       * Stars
       * Imprint
    * The three pages should be navigable and it should be a single page website
-   * Use some CSS-Styling for the menu and use a logo of your choice for the site 
+   * What could the design of the site look like? Implement some of your ideas.
+   * Use a logo of your choice for the site 
    * BONUS: The current page is highlighted in the menu
 
 
