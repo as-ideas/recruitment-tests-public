@@ -28,6 +28,11 @@ Hints:
    * Use the IDE, Tools, JS libraries or CSS frameworks you are most comfortable with. You can also use Typescript, or any other currently hyped frontend language.
    * Prefer simple solutions you can explain over complex solutions you don't even grok.
 
+## Task 0 - a little bit of writing 
+
+   * What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally. Just a short paragraph is fine, but we’d love to know why you’re proud of it.
+   * Tell us about a technical book or article you read recently, why you liked it, and why we should read it as well.
+
 
 ## Task 1 - Show a static HTML page
 
