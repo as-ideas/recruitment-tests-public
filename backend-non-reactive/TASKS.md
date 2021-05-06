@@ -50,9 +50,9 @@ Introduce this feature to our `NewsArticle`s. Your product owner came up with th
 * as an author I want to reference an added image to an existing article in order to make articles more interesting.
 * as an author I want to use the same image on different articles in order to save costs.
 
-#### 6. Add Validation: disallow adding same Image (based on image name) to an Article twice
+#### 6. Add Business Rule: disallow adding same Image (based on image name) to an Article twice
 
-Showing the same image on an article twice is not desired. Add validation logic to prohibit this.
+Showing the same image on an article twice is not desired. Add logic to prohibit this.
 It is expected that the API will return a reasonable response (StatusCode, ErrorDetails).
 
 ## Bonus: Introduce new domain "Accounting"
