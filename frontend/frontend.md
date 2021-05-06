@@ -80,7 +80,7 @@ If you start the json-server with the mocked data it will present you with the l
 
    * Write at least one test for your application
    * It is ok if the test is called manually
-   * BONUS: your test(s) run without internet access
+   * BONUS: your test(s) run without network access to the api (json-server)
 
 
 ## Task 6 - CRUD for universes
