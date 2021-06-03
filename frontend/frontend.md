@@ -10,7 +10,7 @@ You may skip a task if you like to continue working on a following task or you c
 
 __Please deliver less tasks but with higher quality rather than many tasks in lesser quality.__
 
-Please install the [json-server package](https://www.npmjs.com/package/json-server) and use the ```db.json``` file provided. 
+Please install the [json-server package](https://www.npmjs.com/package/json-server) and use the [```db.json```](https://raw.githubusercontent.com/as-ideas/recruitment-tests-public/master/frontend/db.json) file provided. 
  
 ```bash
 # install the server (globally if wanted)
