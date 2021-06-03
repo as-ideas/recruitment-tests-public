@@ -4,11 +4,9 @@ This test is for developers focusing on the frontend. The overall task is to use
 
 If you are doing this test at our office, the objective is to have enough material to help us assess your expertise and style of working. We do not expect you to finish all tasks! Nonetheless please work on as many as you can in affordable time.
 
-If you are doing this test at home, the objective is a bit different. We will still use your solution to assess your expertise and working style but we expect a complete solution with a high level of quality.
+If you are doing this test at home, the objective is a bit different. We will still use your solution to assess your expertise and working style but we expect a  solution with a higher level of quality.
 
-You may skip a task if you like to continue working on a following task or you can go through each task, commit to a branch, or tag the final solution to each task. In the end we would like to have a piece of software that tells us how you work. Once done, we will go through your solution allowing you to explain your rationale.
-Once done, please send us a link to your git repository which should have a random name (others should have fun solving the challenge as well).  
-
+You may skip a task if you like to continue working on a following task or you can go through each task, commit to a branch, or tag the final solution to each task. In the end we would like to have a piece of software that tells us how you work. Once done, please send us a link to your git repository which should have a random name (others should have fun solving the challenge as well). 
 
 __Please deliver less tasks but with higher quality rather than many tasks in lesser quality.__
 
@@ -78,8 +76,8 @@ If you start the json-server with the mocked data it will present you with the l
 
 ## Task 5 - Test your application
 
-   * Write at least one test for your application
-   * It is ok if the test is called manually
+   * Implement at least one test that encodes the business rules of your application
+   * It is ok if the test(s) is called manually
    * BONUS: your test(s) run without network access to the api (json-server)
 
 
