@@ -83,14 +83,12 @@ If you start the json-server with the mocked data it will present you with the l
 
 ## Task 6 - CRUD for universes
 
-   * Add a "Create-View" to the universe site where you can add a new universe. Each universe should have a unique id. 
-   * Add a "Details-View" to the universe where you display only the stars from this universe
+   * Add a "Create-Universe-View" to the universe site where you can add a new universe. Each universe should have a unique id. 
+   * Add a "Details-Universe-View" to the universe where you display only the stars from this universe
    * Add a "Create-Star-View" in the details view where you can add a star to the universe. A star can only be added to an existing universe.
-   * Add a "Delete-Button" to the details view where you can delete a star.
+   * Add a "Delete-Star-Button" to the details view where you can delete a star.
+   * BONUS: The details view for a given universe can be reached with a deep link (e.g. ```http://localhost:1234/.../universes/<id>```)
 
 
-## Task 7 - Pagination
-
-   * Implement Pagination for the stars-site
 
 🤞🏽 Good luck, we can't wait to discuss the solution with you.
